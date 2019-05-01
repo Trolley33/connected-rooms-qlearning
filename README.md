@@ -16,4 +16,4 @@ Speeding up the learning is done using +/-, and # takes you back to default spee
 
 Some of the code is probably not super efficient due to lots of ArrayList's and loops but it's the best I could do in one go!
 
-![https://i.imgur.com/3F0ILMa.gif]
+![Example gif](https://i.imgur.com/3F0ILMa.gif)
