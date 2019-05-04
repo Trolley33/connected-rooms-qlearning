@@ -1,5 +1,5 @@
 # QLearning Demonstration
-I went about making this from (this)[http://mnemstudio.org/path-finding-q-learning-tutorial.htm] tutorial on QLearning. 
+I went about making this from [this](http://mnemstudio.org/path-finding-q-learning-tutorial.htm) tutorial on QLearning. 
 By using processing for graphics, this implementaion attempts to show how a system can learn from it's environment. 
 
 The 'node' system is fairly customisable from the provided 'data.json' file. 
